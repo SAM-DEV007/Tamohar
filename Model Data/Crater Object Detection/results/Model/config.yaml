@@ -1,0 +1,5 @@
+names:
+  0: crater
+path: /kaggle/input/lu3m6tgt/LU3M6TGT_yolo_format
+train: train/images
+val: valid/images
