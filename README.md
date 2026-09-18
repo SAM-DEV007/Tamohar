@@ -15,7 +15,7 @@ This project aims to enhance (Low Light Image Enhancement) the feeble light refl
 
 ![Presentation Slides Preview](Presentation/Video-Preview.gif)
 
-## Related Repo
+## Related Repositories
 - Datasets (by Rudra Shrivastava): [SIH1732 Dataset Github](https://github.com/rudraxix/SIH-Tamohar), [SIH1732 Dataset Kaggle](https://www.kaggle.com/datasets/hanmaiv/sih-tamohar)
 - Website (by Himanshu Mathankar): [SIH1732 Website Github](https://github.com/Himanshumathankar/SIH)
 
